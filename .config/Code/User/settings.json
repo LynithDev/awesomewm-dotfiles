@@ -1,0 +1,96 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.statusBar.visible": true,
+    "workbench.tree.indent": 20,
+    "liveServer.settings.donotVerifyTags": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "typescript": false
+    },
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.autocomplete.enable": true,
+    "github.copilot.advanced": {
+    
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true,
+    "prettier.jsxBracketSameLine": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "eslint.alwaysShowStatus": true,
+    "eslint.options": {
+    
+    },
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "files.eol": "\n",
+    "editor.detectIndentation": false,
+    "typescript.suggestionActions.enabled": false,
+    "javascript.suggestionActions.enabled": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.packageManager": "yarn",
+    "eslint.validate": [
+      "typescript"
+    ],
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[typescript]": {
+        "editor.autoClosingBrackets": "always",
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "JetBrainsMono NF",
+    "editor.mouseWheelZoom": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "smooth",
+    "workbench.list.smoothScrolling": true,
+    "editor.lineHeight": 30,
+    "editor.smoothScrolling": true,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "thunder-client.codeSnippetLanguage": "powershell",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "MacOS Modern Light - Big Sur Xcode Default",
+    "workbench.preferredLightColorTheme": "MacOS Modern Light - Big Sur Xcode Default",
+    "window.autoDetectColorScheme": true,
+    "terminal.external.linuxExec": "alacritty",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.enablePersistentSessions": false,
+    "svelte.enable-ts-plugin": true
+}
